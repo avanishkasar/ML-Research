@@ -1,0 +1,18 @@
+{
+  "model_a": {
+    "name": "XGBoost (no Trends)",
+    "RMSE": 31.08,
+    "MAE": 13.26,
+    "MAPE": 1.25,
+    "R2": 0.9979
+  },
+  "model_b": {
+    "name": "XGBoost + Trends",
+    "RMSE": 31.64,
+    "MAE": 13.81,
+    "MAPE": 1.22,
+    "R2": 0.9978
+  },
+  "improvement_rmse_pct": -1.8,
+  "improvement_mape_pct": 2.5
+}

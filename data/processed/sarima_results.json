@@ -1,0 +1,11 @@
+{
+  "model": "SARIMA(1,1,1)(1,1,1,52)",
+  "category": "HDMICables",
+  "train_weeks": 101,
+  "test_weeks": 52,
+  "RMSE": 229.44,
+  "MAE": 181.74,
+  "MAPE": 9.69,
+  "AIC": 10.0,
+  "features_used": "Units_Sold only"
+}

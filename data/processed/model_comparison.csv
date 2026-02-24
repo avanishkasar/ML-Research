@@ -1,0 +1,4 @@
+Model,RMSE,MAE,MAPE (%),R2,Google Trends
+SARIMA (Baseline),229.44,181.74,9.69,,No
+XGBoost (no Trends),31.08,13.26,1.25,0.9979,No
+XGBoost + Google Trends,31.64,13.81,1.22,0.9978,Yes
